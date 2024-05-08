@@ -3,7 +3,7 @@
 - Implemented a Flask framework application to facilitate the transfer of processed news summaries in JSON format to the user interface
 
 - Skills:
-      - Machine Learning
+-       Machine Learning
       - Python
       - Android Development
       - Unix
