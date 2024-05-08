@@ -2,9 +2,9 @@
 - Leveraged MongoDB for efficient storage and management of the extracted news data.
 - Implemented a Flask framework application to facilitate the transfer of processed news summaries in JSON format to the user interface
 
-- Skills:
--       Machine Learning
-      - Python
-      - Android Development
-      - Unix
-      - Git
+-   Skills:
+    - Machine Learning
+    - Python
+    - Android Development
+    - Unix
+    - Git
